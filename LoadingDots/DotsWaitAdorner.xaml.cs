@@ -9,7 +9,7 @@ namespace LoadingDots
         /// <summary>
         /// Initializes DotsWaitAdorner <see cref="UserControl"/> instance.
         /// </summary>
-        public DotsWaitAdorner()
+        public DotsWaitAdorner() 
         {
             InitializeComponent();
         }

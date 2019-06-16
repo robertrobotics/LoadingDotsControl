@@ -19,7 +19,7 @@
                                InfoFontSize="8"/>
         <local:DotsWaitAdorner DotsDiameter="10"
                                InfoText="Information text"
-                               DotsColor="Red"
+                               DotsColor="Red" 
                                InfoFontSize="18"/>
     </StackPanel>
 </Window>

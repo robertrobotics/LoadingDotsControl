@@ -9,7 +9,7 @@ namespace LoadingDots
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
